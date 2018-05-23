@@ -45,10 +45,13 @@ You'll come up with three (potential) project ideas and write about them.
 
 In each of the files mentioned above, you'll find the same set of prompts. Don't
 erase anything from the starter file, and fill it in with your ideas and your
-thoughtful and well-written responses to the prompts. **Be sure to answer every
-question in each file**. Also, be sure to read the [project
-generation][ProjectGen] page; otherwise, you might not know how best to answer
-the questions in these files.
+thoughtful and well-written responses to the prompts. I recommend that you
+**write 2–3 sentences for each question**. Don't write less than that; but feel
+free to occasionally write more, if you need more to answer the question.
+
+**Be sure to answer every question in each file**. Also, be sure to read the
+[project generation][ProjectGen] page; otherwise, you might not know how best to
+answer the questions in these files.
 
 You're free to take ideas from existing DSLs, past projects, or other people, as
 long as you give credit and as long as your description and evaluation of the
