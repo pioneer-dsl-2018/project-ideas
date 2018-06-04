@@ -1,4 +1,4 @@
-# Idea 1
+# Idea 2
 
 ## The need, the user, and you
 **This section describes whom the project would serve and why you're interested
