@@ -112,7 +112,7 @@ I believe that this is a fairly ambitious project for me. It might be difficult 
 ### Benefits and drawbacks
 _Why might this be a good idea for a project?_ 
 
-I think this would be a good idea for a project since it is something which I find extremely interesting and I believe to which there exists a decent amount of linguistic design ability.
+I think this would be a good idea for a project since it is something which I find extremely interesting and I believe to which there exists a great deal of potential for linguistic design.
 
 _Why might this not be a good idea project?_
 
