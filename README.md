@@ -82,7 +82,7 @@ Great responses (i.e., responses that receive a A) will additionally:
    answer the questions, and commit and push the file to your repository).
 
 ## Tasks
-- [ ] Read the assignment, including the advice for 
+- [x] Read the assignment, including the advice for 
 [generating ideas][ProjectGen].
 - [ ] Think / come up with ideas.
 - [ ] Write responses in each of the files.
