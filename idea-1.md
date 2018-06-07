@@ -1,5 +1,5 @@
-[diagram]: Physics_Lab_6.eps
-[code]: lab6.ipynb
+[diagram]: Physics_Lab_6.png
+[code]: Lab6.ipynb
 # Idea 1 Physics Circuit Diagram Drawer
 
 ## The need, the user, and you
