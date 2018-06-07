@@ -1,4 +1,4 @@
-# Idea 3 - Chemistry Formula Generator
+# Idea 1
 
 ## The need, the user, and you
 **This section describes whom the project would serve and why you're interested
@@ -10,18 +10,14 @@ _What need is met by your idea? Who are you helping? What is that person's
 experience like now? How would their experience improve if you could help 
 them?_
 
-Chemistry learners always have difficulty in writing chemistry fomulas, especially reaction equations. They might make mistakes in balancing the quations, figuring out the reactants or products, or memorizing the condition for reaction, whether the reaction is plausible or not. So the need of this DSL is to write a correct, balanced reaction equations. And I will be helping all the people working, learning, or teaching in the field of chemistry. Typically, this DSL will help chemistry learners. 
-
-With the help of this DSL, chemistry learners will be easier and quicker to write chemisry formulas.
 
 ### Why you?
 _What excites you about this idea? How did you come up with it?_
-I came up this idea when i was taking the SAT Subject test. I met several questions asking me to balance reaction equations, and i 
-had a hard time solving these problems. So I come up with this idea: we can write a computer program that automatically generate chemistry formulas.
+
 
 ### Domain
 _Describe the project's domain in five words._
-Chemistry, 
+
 
 ## The language
 **This section helps you argue that a DSL can serve the need(s) described in
