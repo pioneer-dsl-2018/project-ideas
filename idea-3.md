@@ -33,7 +33,7 @@ apply to your project, explain why.**
 
 _What are some likely nouns in this domain? (Nouns correspond to kinds of
 data. In our image manipulation DSL, an **image** is a noun.)_
-graph, color, trigonometry, logistics, labels, axis, units, limits, maximum/minimum
+- graph, color, trigonometry, logistics, labels, axis, units, limits, maximum/minimum
 
 _What are some likely adjectives? (Adjectives correspond to values for a
 particular kind of data; for example: a **JPEG** image.)_ 
