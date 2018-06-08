@@ -12,11 +12,11 @@ Chords are commonly used in guitar. In many cases, performing chords with a guit
 
 ### Why you?
 _What excites you about this idea? How did you come up with it?_
-I came up this idea on a rainy day. I was listening to my sister practicing her piano. I heard lots of repetition of notes and beats in her performance. Suddenly, I thought, _Why aren't there people make programming language in piano performing?_ However, I cannot play piano, so I further make my idea into a guitar DSL.
+I came up this idea on a rainy day. I was listening to my sister practicing her piano. I heard lots of repetition of notes and beats in her performance. Suddenly, I thought, _Why aren't there people make programming language in piano performing?_ However, I cannot play piano, so I further integrate my idea into a guitar DSL.
 
 ### Domain
 _Describe the project's domain in five words._
-Guitar, amateurish, 
+Guitar, performing, music, beginners, functional
 
 ## The language
 **This section helps you argue that a DSL can serve the need(s) described in
@@ -52,7 +52,7 @@ play **happlily/lively/solemnly/lightly**
 ### Expressiveness
 _What should be easy to do in this language? What should be possible, but
 difficult? What should be impossible or very difficult?_
-Ideally, it should be quite easy to play simple guitar chords. It may be more difficult to play complicated guitar notes involving changing tempos and playing types(tapping, bending, sweeping). It will be almost impossible/very difficult to play songs like a real human, which will put emphasis on some notes or extend some notes.
+Ideally, it should be quite easy to play simple guitar chords. It may be more difficult to play complicated guitar notes involving changing tempos and playing types(tapping, bending, sweeping). It will be almost very difficult to play songs like a real human, which will put emphasis on some notes or extend some notes.
 
 ### Related work
 _Are there any other DSLs in this domain? If not, describe how you know there
@@ -73,11 +73,11 @@ spent directly engaging in the **language** aspects of this project (e.g.,
 making language-design decisions), as opposed to "systems" aspects of the
 project (e.g., implementing a complicated visualization that doesn't require a
 lot of language design)?_
-Still I believe more than 90 percent of their time would be spent directly engaging in teh language aspect, since this is a language implementation instead of a user interface.
+Still I believe more than 90 percent of their time would be spent directly engaging in the language aspect, since this is a language implementation instead of a user interface.
 
 ### Scope
 _How ambitious is this project for you? Not very? Somewhat? Very?_
-I think this is a **very ambitious** project. The hasn't anyone made a guitar music DSL before. So I am very excited to achieve this project.
+I think this is a **very ambitious** project. There hasn't anyone made a guitar music DSL before. So I am very excited to achieve this project.
 
 ### Benefits and drawbacks
 _Why might this be a good idea for a project?_ 
