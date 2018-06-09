@@ -77,6 +77,7 @@ spent directly engaging in the **language** aspects of this project (e.g.,
 making language-design decisions), as opposed to "systems" aspects of the
 project (e.g., implementing a complicated visualization that doesn't require a
 lot of language design)?_
+For this project, I think there will be about 70 percent on the systems aspects, and 30 percent on the language design. There are more percentages on the system aspect because the user may focus more on the result of this DSL, which is essentially a graph.
 
 
 ### Scope
