@@ -103,3 +103,8 @@ This project is straightforward, it is beneficial, useful, and not overly time c
 
 _Why might this not be a good idea project?_
 This idea could be very broad or generic, and maybe the modifications will not be useful at all. 
+
+### Examples
+Input: "Work" at 9:00 am for 8 hours on May 1st
+Input: "Sleep" at 22:00 for 8 hours on 5/27
+Input: at 5:00 pm "make food"
