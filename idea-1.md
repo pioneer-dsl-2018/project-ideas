@@ -72,8 +72,7 @@ around
 ### Expressiveness
 _What should be easy to do in this language? What should be possible, but
 difficult? What should be impossible or very difficult?_
-It should be easy to create the subroutines in this language. It could be possible to remove some host flavor in the language. 
-But I do not think that reving things like parentheses and semi-colons are possible.
+It should be easy to make and manipulate the character aroun the map. What is going to be impossible to to exceed the map, or maze and creating something past that. 
 
 ### Related work
 _Are there any other DSLs in this domain? If not, describe how you know there
