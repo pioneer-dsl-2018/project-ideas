@@ -103,7 +103,10 @@ _Why might this not be a good idea project?_
 This could be harder to complete as maybe some aspects of the project may not be as easy as it seems. 
 
 ### Examples
-_Check out 2 ipads at A block_
-_Signing out 3 laptops for D block_
-_Check out laptop#1, laptop #2, laptop #3 for the whole day_
-_Returned ipads_ 
+Check out 2 ipads at A block.
+
+Signing out 3 laptops for D block.
+
+Check out laptop#1, laptop #2, laptop #3 for the whole day.
+
+Returned ipads.
